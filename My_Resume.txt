@@ -1,0 +1,86 @@
+<html>
+<head>
+<body style="background-color:rgb(244,237,218)">
+<hr ,>
+<hr>
+<h1 style="font-size:50px;color:red" align="center">RESUME</h1>
+<hr>
+<hr>
+</div>
+<br>
+<br>
+<br>
+<div class="photo"><img src="file:///C:/Users/DELL/Downloads/icon-6007530__340.png" alt="photo" width="300" length="300" align="right"/>
+<h2  style="color:red" align="center"><u>ABOUT MYSELF</u></h2>
+<p style="font-size:25px"> Name  :  <i style="color:blue">S. KAVYA SHREE</i><br>
+Date of Birth : <i style="color:blue"> 26/12/2004</i><br>
+Residential address : <i style="color:blue"> 18B Ramnagar, Ponnagaram</i><br>
+Native : <i style="color:blue">RAJAPALAYAM</i>
+<h2  style="color:red"align="center"><u>EDUCATION</u><h2>
+<style>
+table , th, td{
+border:1px solid black;
+
+}
+
+</style>
+<font size="20px">
+<table style="font-size:20px" align="center">
+<tr>
+<td>P.A.C.R Ammani Ammal girls higher secondary school<t/d>
+<td style="color:blue" >SSLC percentage</td>
+<td>84.2%</td>
+<td>pass</td>
+</tr>
+<tr>
+<td>P.A.C.R Ammani Ammal girls higher secondary school<t/d>
+<td style="color:blue">HSC percentage</td>
+<td>93.16%</td>
+<td>pass</td>
+</tr>
+<tr>
+<td>Ramco institute of technology </td>
+<td style="color:blue">BTech Artificial Intelligence And Data Science </td>
+<td>-</td>
+<td>-</td>
+</tr>
+</table>
+</font>
+
+
+<h2  style="color:red"><u>HOBBIES</u></h2>
+<div style="font-size:25px;color:blue">
+<ul style="list-style-type:circle" >
+<li>Watching movies</li>
+<li>Music</li>
+<li>Drawing</li>
+<li>Travelling</li>
+</ul>
+</div>
+
+<h2  style="color:red" ><u>COMPUTER SKILLS</u></h2>
+<div style="font-size:25px;color:blue" >
+<ul style="list-style-type:circle" >
+<li>PYTHON</li>
+<li>HTML</li>
+<li>MSword,Powerpoint</ul>
+</div>
+<h2  style="color:red"><u>LANGUAGE</u></h2>
+<div style="font-size:25px;color:blue" >
+<ul style="list-style-type:circle" >
+<li> Mother Tongue-Tamil</li>
+<li>English</li>
+</ul>
+</div>
+<h2  style="color:red"><u>online courses and certificates</u></h2>
+<div style="font-size:25px;color:blue" >
+<ul style="list-style-type:circle" >
+<li>certificates in Game Development using Pygame from GUVI</li>
+<li>certificates in Fundamentals of python for beginners </li>
+</ul>
+</div>
+<br>
+<br>
+<h3 align="center">my linkedin account <a href="https://in.linkedin.com/in/kavya-shree-s-a3a18a264"><b>Profile<b></a></h3>
+<h3 align="center">for CONTACT - <u>9360832543</u></h3>
+</body></head></html>
